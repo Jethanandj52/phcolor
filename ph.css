@@ -1,0 +1,47 @@
+h1{
+    background-color: rgb(226, 230, 230);
+}
+#one{
+    background-color:rgb(241, 133, 196);
+}
+#two{
+    background-color:rgb(221, 157, 169);
+} #three{
+    background-color:rgb(234, 176, 186);
+} #four{
+    background-color:rgb(243, 190, 198);
+} #five{
+    background-color:rgb(255, 209, 216);
+} #six{
+    background-color:rgb(255, 216, 222);
+} #seven {
+    background-color:rgb(255, 228, 233);
+} #eight{
+    background-color:rgb(7, 207, 54);
+
+} #nine{
+
+    background-color:rgb(133, 133, 255);   
+     }
+     #ten{
+    background-color:rgb(105, 105, 243);   
+     }
+     #eleven{
+    background-color:rgb(85, 85, 234);   
+     }
+     #tweleve{
+    background-color:rgb(56, 56, 215);   
+     }
+     #thirteen{
+    background-color:rgb(42, 42, 212);   
+     }
+     #fourteen{
+    background-color:rgb(29, 29, 156);   
+     }
+
+#fifteen{
+    background-color:rgb(22, 22, 131);   
+     }
+     div{
+        color: white;
+     }
